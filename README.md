@@ -1,4 +1,2 @@
 # LINE-FOLLOWER-ROBOT
-In fisierul word, se regasesc informatii cu privire la componentele robotului, alaturi de modul de asamblare al acestuia.
-
-In folderul cod_robot se regaseste fisierul .ino ce corespunde codului robotului.
+This project consists both in the actual programming of the robot's movement, namely the tracking of a given route, and its actual construction. The robot's front plate was 3D designed manually and created using a 3D printer. The language used is ARDUINO.
